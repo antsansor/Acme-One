@@ -11,4 +11,3 @@
 The contributors of this proyect are:
 
 - Antonio Javier Sanchez Soria (antsansor@alum.us.es)
-- Antonio Viñuelas Perales (antvinper@alum.us.es)
