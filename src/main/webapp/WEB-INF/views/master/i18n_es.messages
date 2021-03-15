@@ -30,6 +30,10 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.torregrosa-link = Enlace de Torregrosa
+master.menu.anonymous.vinuelas-link = Enlace de Viñuelas
+master.menu.anonymous.sanchez-link = Enlace de Sanchez
+master.menu.anonymous.escalera-link = Enlace de Escalera
 
 # master.menu.administrator ###################################################
 
