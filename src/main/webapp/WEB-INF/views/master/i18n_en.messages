@@ -11,14 +11,12 @@ y# i18n_en.messages
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #FF0080
 
 # master.welcome ##############################################################
 
 master.welcome.title = Welcome!
-master.welcome.text = \
-	Welcome to Starter Project! Never before has it bee easier to get your \
-	project up and running!
+master.welcome.text = Welcome to Acme One! Our first project in D&T!
 
 # master.menu #################################################################
 
@@ -33,7 +31,7 @@ master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
 master.menu.anonymous.torregrosa-link = Torregrosa's Link
 master.menu.anonymous.vinuelas-link = Viñuelas' Link
-master.menu.anonymous.sanchez-link = Sanchez Link
+master.menu.anonymous.sanchez-link = Sanchez's Link
 
 # master.menu.administrator ###################################################
 
@@ -77,23 +75,23 @@ master.footer.label.spanish = Spanish
 
 # master.company ##############################################################
 
-master.company.title = La compañía
-master.company.text = \
-	Starter Project, Inc. is a fictitious fictitious company that provides a \
-	starter project for the students of the Design and Testing subject of the \
-	Software Engineering Curriculum of the University of Sevilla.
-master.company.name = Starter Project, Inc.
+master.company.title = The company
+master.company.text = \ 
+	Acme One, Inc. is a fictitious company which \ 
+	represents our first project.
+ 
+	
+master.company.name = Acme One, Inc.
 master.company.address = Number Street, City, State, Country
 master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.email = acmeOneContact@acme.com
 
 # master.license ##############################################################
 
 master.license.title = License
 master.license.text = \
 	You may use this system free of charge, as long as you carefully observe the \
-	existing applicable laws.  Please, note that we do not share any information \
-	about you with any other company.  We only use three cookies, namely: \
+	existing applicable laws.We only use three cookies, namely: \
 	"JSESSIONID" to identify your work session, "remember" to let you authenticate \
 	automatically for a maximum of 31 days, and "language" to store your language \
 	preferences. Additionally, we store an item called "returnStack" in your browser's \
